@@ -1,0 +1,138 @@
+Vitor Rafael Morais Silveira
+RESPOSTAS:
+
+1.	As válvulas dos primeiros computadores eram dispositivos grandes, que causavam muito aquecimento e complicações com a manutenção, já que queimavam.
+
+2.	A primeira geração usava válvulas, enquanto a segunda adotou os transistores, objetos mais eficientes na questão energética e de velocidade, além de serem menores.
+
+3.	A evolução dos itens eletrônicos, os quais começaram a ser compactados em dispositivos melhores e mais eficientes.
+
+4.	A evolução tanto dos dispositivos eletrônicos como da linguagem usada.
+
+5.	Os computadores surgem de necessidades bélicas e ciêntificas e se tornam um componente tão importante e complexo para o ser humano, que a cada evolução no meio eletrônico
+ e digital, é encontrado uma brecha para seu desenvolvimento, além de sairem das mãos apenas de assuntos militares para a mesa de todos que poderem adquirir,
+ dessa forma, revolucionando o estudo, pesquisas e relações sociais.
+
+6.	Os inventos mais significativos foram os chips, pois conseguiram compactar vários transistores em um dispositivo minúsculo, assim reduzindo custos e tamanho,
+ e a linguagem de programação de alto nível, o que torna a realidade virtual uma arquitetura muito mais complexa e sem amarras da limitação do meio físico.
+
+7.	D) Ábaco, Eniac, Transistores, Chip e Micropocessador.
+
+8.	Um computador é um dispositivo que precisa de corrente elétrica passando pelos seus componentes, essa pode ser adquirida da própria rede elétrica ou vinda
+ de uma bateria. Ele é composto da placa mãe, que conecta os componentes do computador, do processador, que executa instruções por meio de aspectos matemáticos,
+ da memória, e vários outros dispositivos. Ele tem como finalidade realizar ações de comandos de entrada e saída dos usuários.
+
+9.	Dispositivo eletrônico; Tem componentes físicos; Possui uma linguagem digital; realiza instruções lógicas; e obedece sua programação.
+
+10.	A memória RAM é volátil, aquela informação que ela possui não será salva nela, apenas fica lá para amostra por tempo limitado. A memória ROM, é de
+ armazenamento, ou seja, ela funciona para guardar informações e apresentá-las quando solicitado.
+
+11.	Entrada: Microfone, teclado, câmera. Saída: monitor, alto falante, Fone de ouvido. Entra/Saída: CD, pendrive, dispositivo Wi-Fi.
+
+12.	Hardware são os dispositivos físicos do computador, Já o software são os resultados lógicos e eletrônicos advindos dos componentes físicos,
+ normalmente mostrados na tela como programas.
+13.	A memória cache ajuda a optmizar o processador, pois ela serve para lembrar informações já visitadas no disco, dessa forma, tornando mais rápida as pesquisas
+ e processamentos.
+14.	A CPU é o principal item de hardware do computador, ela é responsável pelo processamento e calculo das tarefas.
+
+15.	A configuração 2, pois mesmo tendo um pouco menos de eficiência no processador, possui mais memória RAM, ou seja, aguentará mais programas ao mesmo tempo.
+
+16.	Não, armazenamento está ligado a memória ROM da máquina e não o processador.
+
+17.	Não, pois a velocidade dos dispositivos não é afetada pela memória RAM. A memória RAM serve para abrir mais de uma tarefa, porém a velocidade destas depende
+ do processador.
+
+18.	Porque esses ambientes demandam multiprocessos ao mesmo tempo e apenas um processador criaria uma fila e sobrecarregaria o sistema.
+
+19.	a) É mais lenta, porque é feito para armazenamento. 
+b) Sim, pois sua finalidade é guardar informações permanentemente.
+c) Exatamente, pois como já falado, é a sua funcionalidade.
+
+20.	Programas paralelizáveis esperam múltiplos processadores, para que suas funções sejam executadas ao mesmo tempo. Se o computador possui apenas 1,
+ então outras funcionalidades não serão executadas no momento.
+
+21.	Sistema binário, 1 bit.
+
+22.	Microprocessador.
+
+23.	Ser responsável pelo processamento, controle e gerenciamento das informações.
+
+24.	Modem e Touch Screen.
+
+25.	Memória somente de leitura de informações que tem como principal função o armazenamento de dados.
+
+26.	Todas as alternativas são falsas.
+
+27.	Word, Excel, PowerPoint.
+
+28.	Gravador de CD.
+
+29.	Microprocessador.
+
+30.	É totalmente perdido.
+
+31.	Suprir a falta de energia elétrica por um determinado período.
+
+32.	Memória principal da máquina, volátil.
+
+33.	Matriciais, à laser e jato de tinta.
+
+34.	Placa mãe: Principal módulo do computador, estão conectados todos  os periféricos. Gabinete: Caixa de metal onde estão localizados os componentes
+ principais do computador. CPU: Responsável pelo processamento, gerenciamento e controle das informações.
+
+35.	O Mouse é um dispositivo de saída de dados. FALSO
+A ULA é um dispositivo responsável pelos cálculos e comparações lógicas. VERDADE
+O acumulador é registrador que armazena a instrução a ser executada. VERDADE
+36.	1 Byte – 8 bits. 1024 KB – 1 MB. 1024 MB – 1 GB.
+
+37.	a) 8 caracteres. b) 0 e 1. c) 1024 bytes. d) 1048576 bytes e) 1 GB. 
+
+38.	a) entrada: Teclado, Mouse, Microfone, Scanner, leitura ótica.
+b) entrada e saída: HD, Modem, CD-Rom, Pen drive, Disquete.
+c) saída: Impressora, Monitor, Plotter, Caixa de som.
+
+39.	O responsável pelo organização dos processos do computador, como a interface gráfica.
+
+40.	Sistema de Grandes portes, utilizado em grandes empresas. Servidores, tem implementação na rede com alguma finalidade. Multiprocessadores,
+ sistemas que permitem vários processos. Pessoais, de cunho pessoal. Portáteis, para aparelhos portáteis. Embarcados, sistema com um simples objetivo. Tempo real,
+ fornece informações em tempo real. Smart cards, sistemas de cartões.
+
+41.	É a ação de um programa solicitar ao kernel um serviço.
+
+42.	Conjunto de instruções, códigos numéricos que o micro interpreta e executa para realizar tarefas.
+
+43.	
+(1) Softwares Básicos	(1) Word, Excel, Controle de Estoque
+(2) Linguagens de Programação	(3) Scandisk, Defrag, Antivírus
+(3) Software Aplicativo	(4) Windows, Unix, Ms-Dos, Linux
+(4) Software Utilitário	(2) Cobol, Basic, C, Delphi
+
+44.	Windows, Android, Ios, Linux, MacOs.
+
+45.	É uma linguagem que obedece comandos pelos quais o usuário pode criar novos programas no computador.
+
+46.	Linguagem de alto nível, aquela mais próxima ao usuário, bem compilada. Linguagem de baixo nível, informações mais próximas ao entendimento do computador
+ e seu modo de codificação.
+
+47.	A vantagem seria um conhecimento quase universal na programação de máquinas de computadores, porém, é de difícil leitura humana e organização,
+ sendo os códigos extensos.
+
+48.	A compilação está no ato de reunir e agrupar informações, sendo a linguagem compilada a criação de um novo programa, com as mesmas funcionalidades,
+ a partir da união de informações recebidas de uma linguagem de nível diferente. Já a tradução consiste em transformar o conhecimento dado em um outro compreensivo
+ pelo que recebe.
+
+49.	(F)O compilador traduz a linguagem de baixo nível para a linguagem de alto nível.
+(V)O compilador traduz a linguagem de alto nível para a linguagem de baixo nível.
+(F)Linguagens de alto nível mostram-se mais complicadas para o programador.
+(V)Linguagens de baixo nível geram, normalmente, programas maiores do que as linguagens de alto nível.
+(F)Assembly é o programa que faz a tradução do programa em código binário.
+(F)Assembly é uma linguagem de alto nível.
+(F)Programadores preferem linguagens de baixo nível, pois como o nome sugere, oferecem um nível de dificuldade mais reduzido.
+
+
+
+
+
+
+
+
